@@ -64,7 +64,6 @@ npm run preview
 
 ```
 ai-product-expert-demo/
-├── index-embedded.html     # 主页面文件（推荐使用）
 ├── index.html              # 原始版本（需要HTTP服务器）
 ├── package.json            # 项目配置
 ├── styles/
@@ -72,11 +71,6 @@ ai-product-expert-demo/
 ├── assets/
 │   └── images/
 │       └── logo.png       # Logo图片
-├── docs/
-│   ├── AI产品专家-Demo完整需求规格说明书.md  # 需求文档
-│   ├── AI产品专家角色定位.md                # AI角色设定
-│   ├── UI-UX-专业完善建议.md                # 设计建议
-│   └── 项目总结.md                          # 项目总结
 └── README.md               # 说明文档
 ```
 
